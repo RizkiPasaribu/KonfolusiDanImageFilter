@@ -1,0 +1,17 @@
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\bin\Debug\net6.0-windows\Konfolusi Dan Image Filtering.exe
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\bin\Debug\net6.0-windows\Konfolusi Dan Image Filtering.deps.json
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\bin\Debug\net6.0-windows\Konfolusi Dan Image Filtering.runtimeconfig.json
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\bin\Debug\net6.0-windows\Konfolusi Dan Image Filtering.dll
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\bin\Debug\net6.0-windows\Konfolusi Dan Image Filtering.pdb
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.csproj.AssemblyReference.cache
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi_Dan_Image_Filtering.Form1.resources
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.csproj.GenerateResource.cache
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.AssemblyInfoInputs.cache
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.AssemblyInfo.cs
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.csproj.CoreCompileInputs.cache
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.dll
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\refint\Konfolusi Dan Image Filtering.dll
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.pdb
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\Konfolusi Dan Image Filtering.genruntimeconfig.cache
+C:\Users\Rizki-PC\source\repos\Konfolusi Dan Image Filtering\Konfolusi Dan Image Filtering\obj\Debug\net6.0-windows\ref\Konfolusi Dan Image Filtering.dll
