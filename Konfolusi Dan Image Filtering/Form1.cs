@@ -64,8 +64,8 @@ namespace Konfolusi_Dan_Image_Filtering
 
                 //karnel
                 float[] k =  { 0.5f ,        //   0  0.5  0
-                        0.5f, 0.5f, 0.5f,   // 0.5  0.5  0.5
-                              0.5f };       //   0  0.5  0
+                         0.5f, 0.5f, 0.5f,   // 0.5  0.5  0.5
+                               0.5f };       //   0  0.5  0
                 for (int y = 1; y < gambarGrayscale.Height - 1; y++)
                 {
                     for (int x = 1; x < gambarGrayscale.Width - 1; x++)
